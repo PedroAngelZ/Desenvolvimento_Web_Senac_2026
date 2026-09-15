@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc33"/>
+        <attribute name="authors" value="pedro"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-07-06 10:37:19 "/>
+        <attribute name="created" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0wNjsiMTA6MjA6NTYgIjsyNTQ2"/>
+        <attribute name="edited" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0wNjsiMTA6Mzc6MTkgIjsxOzI2NjE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num1" type="Integer" array="False" size=""/>
+            <declare name="num2" type="Integer" array="False" size=""/>
+            <declare name="num3" type="Integer" array="False" size=""/>
+            <declare name="num4" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite o primeiro n&#250;mero:&quot;" newline="True"/>
+            <input variable="num1"/>
+            <output expression="&quot;Digite o segundo n&#250;mero:&quot;" newline="True"/>
+            <input variable="num2"/>
+            <output expression="&quot;Digite o terceiro n&#250;mero:&quot;" newline="True"/>
+            <input variable="num3"/>
+            <output expression="&quot;Digite o quarto n&#250;mero:&quot;" newline="True"/>
+            <input variable="num4"/>
+            <output expression="&quot;Digite o quarto n&#250;mero:&quot;" newline="True"/>
+            <output expression="&quot;Valores divis&#237;veis por 2 e por 3:&quot;" newline="True"/>
+            <if expression="num1 Mod 2 = 0 And num1 Mod 3 = 0">
+                <then>
+                    <output expression="num1" newline="True"/>
+                </then>
+                <else>
+                    <output expression="num1 &amp; &quot; N&#227;o &#233;&quot;" newline="True"/>
+                </else>
+            </if>
+            <if expression="num2 Mod 2 = 0 And num2 Mod 3 = 0">
+                <then>
+                    <output expression="num2" newline="True"/>
+                </then>
+                <else>
+                    <output expression="num2 &amp; &quot; N&#227;o &#233;&quot;" newline="True"/>
+                </else>
+            </if>
+            <if expression="num3 Mod 2 = 0 And num3 Mod 3 = 0">
+                <then>
+                    <output expression="num3" newline="True"/>
+                </then>
+                <else>
+                    <output expression="num3 &amp; &quot; N&#227;o &#233;&quot;" newline="True"/>
+                </else>
+            </if>
+            <if expression="num4 Mod 2 = 0 And num4 Mod 3 = 0">
+                <then>
+                    <output expression="num4" newline="True"/>
+                </then>
+                <else>
+                    <output expression="num4 &amp; &quot; N&#227;o &#233;&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

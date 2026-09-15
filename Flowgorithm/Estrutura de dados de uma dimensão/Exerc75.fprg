@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc75"/>
+        <attribute name="authors" value="pedro"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-07-28 10:32:20 "/>
+        <attribute name="created" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6MjU6MTMgIjsyNTQ4"/>
+        <attribute name="edited" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6MzI6MjAgIjsxOzI2NTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="celsius" type="Real" array="True" size="25"/>
+            <declare name="fahrenheit" type="Real" array="True" size="25"/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="24" direction="inc" step="1">
+                <input variable="celsius[i]"/>
+                <assign variable="fahrenheit[i]" expression="(celsius[i] * 9 / 5) + 32"/>
+                <output expression="celsius[i]&amp; &quot; &#176;C = &quot;&amp; fahrenheit[i]&amp; &quot; &#176;F&quot;" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

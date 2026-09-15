@@ -1,0 +1,28 @@
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.exe
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.deps.json
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.runtimeconfig.json
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.dll
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.pdb
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.AssemblyInfoInputs.cache
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.AssemblyInfo.cs
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.csproj.CoreCompileInputs.cache
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.dll
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\refint\ListaExercicios.dll
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.pdb
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.genruntimeconfig.cache
+C:\Users\pedro.azneto\source\repos\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ref\ListaExercicios.dll
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.AssemblyInfoInputs.cache
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.AssemblyInfo.cs
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.csproj.CoreCompileInputs.cache
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.dll
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\refint\ListaExercicios.dll
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.pdb
+D:\Documentos importantes\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.exe
+D:\Documentos importantes\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.deps.json
+D:\Documentos importantes\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.runtimeconfig.json
+D:\Documentos importantes\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.dll
+D:\Documentos importantes\ListaExercicios\ListaExercicios\bin\Debug\net8.0\ListaExercicios.pdb
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ListaExercicios.genruntimeconfig.cache
+D:\Documentos importantes\ListaExercicios\ListaExercicios\obj\Debug\net8.0\ref\ListaExercicios.dll

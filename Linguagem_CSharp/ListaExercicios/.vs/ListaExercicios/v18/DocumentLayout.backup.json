@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos importantes\\ListaExercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF762393-B53F-4372-AE1B-1D5F1B6AE2A8}|ListaExercicios\\ListaExercicios.csproj|d:\\documentos importantes\\listaexercicios\\listaexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF762393-B53F-4372-AE1B-1D5F1B6AE2A8}|ListaExercicios\\ListaExercicios.csproj|solutionrelative:listaexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos importantes\\ListaExercicios\\ListaExercicios\\Program.cs",
+              "RelativeDocumentMoniker": "ListaExercicios\\Program.cs",
+              "ToolTip": "D:\\Documentos importantes\\ListaExercicios\\ListaExercicios\\Program.cs*",
+              "RelativeToolTip": "ListaExercicios\\Program.cs*",
+              "ViewState": "AgIAALwBAAAAAAAAAAAgwOYBAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T04:04:26.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

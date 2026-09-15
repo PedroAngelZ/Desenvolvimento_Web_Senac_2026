@@ -1,0 +1,29 @@
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.exe
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.deps.json
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.runtimeconfig.json
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.dll
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.pdb
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.dll
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\refint\ExemplosAdicionais.dll
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.pdb
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ref\ExemplosAdicionais.dll
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.exe
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.deps.json
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.runtimeconfig.json
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.dll
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\bin\Debug\net10.0\ExemplosAdicionais.pdb
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.AssemblyInfoInputs.cache
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.AssemblyInfo.cs
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.csproj.CoreCompileInputs.cache
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.sourcelink.json
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.dll
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\refint\ExemplosAdicionais.dll
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.pdb
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ExemplosAdicionais.genruntimeconfig.cache
+D:\ProjetosCursoWeb-Senac\Linguagem C#\ExemplosAdicionais\ExemplosAdicionais\obj\Debug\net10.0\ref\ExemplosAdicionais.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjetosCursoWeb-Senac\\Linguagem C#\\ExemplosAdicionais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C52C4-F99F-66B9-812E-44C21BF9FB61}|ExemplosAdicionais\\ExemplosAdicionais.csproj|d:\\projetoscursoweb-senac\\linguagem c#\\exemplosadicionais\\exemplosadicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C52C4-F99F-66B9-812E-44C21BF9FB61}|ExemplosAdicionais\\ExemplosAdicionais.csproj|solutionrelative:exemplosadicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjetosCursoWeb-Senac\\Linguagem C#\\ExemplosAdicionais\\ExemplosAdicionais\\Program.cs",
+              "RelativeDocumentMoniker": "ExemplosAdicionais\\Program.cs",
+              "ToolTip": "D:\\ProjetosCursoWeb-Senac\\Linguagem C#\\ExemplosAdicionais\\ExemplosAdicionais\\Program.cs",
+              "RelativeToolTip": "ExemplosAdicionais\\Program.cs",
+              "ViewState": "AgIAAGcDAAAAAAAAAAAwwIgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:31:37.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

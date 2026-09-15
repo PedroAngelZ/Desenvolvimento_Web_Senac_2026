@@ -1,0 +1,29 @@
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.exe
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.deps.json
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.runtimeconfig.json
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.dll
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.pdb
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfoInputs.cache
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfo.cs
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.dll
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\refint\Supermercado.dll
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.pdb
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.genruntimeconfig.cache
+C:\Users\pedro.azneto\source\repos\Supermercado\Supermercado\obj\Debug\net8.0\ref\Supermercado.dll
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfoInputs.cache
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfo.cs
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.csproj.CoreCompileInputs.cache
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.dll
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\refint\Supermercado.dll
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.pdb
+D:\Documentos importantes\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.exe
+D:\Documentos importantes\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.deps.json
+D:\Documentos importantes\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.runtimeconfig.json
+D:\Documentos importantes\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.dll
+D:\Documentos importantes\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.pdb
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.genruntimeconfig.cache
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\ref\Supermercado.dll
+D:\Documentos importantes\Supermercado\Supermercado\obj\Debug\net8.0\Supermer.F0BE87B0.Up2Date

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc77"/>
+        <attribute name="authors" value="pedro"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-07-28 10:50:46 "/>
+        <attribute name="created" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6NDA6MzYgIjsyNTUw"/>
+        <attribute name="edited" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6NTA6NDYgIjsxOzI2NjA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="vetorOriginal" type="Real" array="True" size="15"/>
+            <declare name="vetorResultante" type="Real" array="True" size="15"/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="14" direction="inc" step="1">
+                <input variable="vetorOriginal[i]"/>
+                <if expression="i Mod 2 = 0">
+                    <then>
+                        <assign variable="vetorResultante[i]" expression="vetorOriginal[i] / 2"/>
+                    </then>
+                    <else>
+                        <assign variable="vetorResultante[i]" expression="vetorOriginal[i] * 1.5"/>
+                    </else>
+                </if>
+                <output expression="vetorOriginal[i]&amp; &quot; -&gt; &quot; &amp; vetorResultante[i]" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

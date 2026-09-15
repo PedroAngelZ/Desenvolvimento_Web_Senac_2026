@@ -1,0 +1,29 @@
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.exe
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.deps.json
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.runtimeconfig.json
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.dll
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.pdb
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.AssemblyInfoInputs.cache
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.AssemblyInfo.cs
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.csproj.CoreCompileInputs.cache
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.dll
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\refint\ExpançãoDoReino.dll
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.pdb
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.genruntimeconfig.cache
+C:\Users\pedro.azneto\source\repos\ExpançãoDoReino\ExpançãoDoReino\obj\Debug\net8.0\ref\ExpançãoDoReino.dll
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.exe
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.deps.json
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.runtimeconfig.json
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.dll
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\bin\Debug\net8.0\ExpançãoDoReino.pdb
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.AssemblyInfoInputs.cache
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.AssemblyInfo.cs
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.csproj.CoreCompileInputs.cache
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.dll
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\refint\ExpançãoDoReino.dll
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.pdb
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ExpançãoDoReino.genruntimeconfig.cache
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\ref\ExpançãoDoReino.dll
+D:\Documentos importantes\Expansao RPG\ExpançãoDoReino\obj\Debug\net8.0\Expan__o.E7C708F9.Up2Date

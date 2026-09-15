@@ -1,0 +1,34 @@
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.exe
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.deps.json
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.runtimeconfig.json
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.dll
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.pdb
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora_de_Viagem.Form1.resources
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.csproj.GenerateResource.cache
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.AssemblyInfoInputs.cache
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.AssemblyInfo.cs
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.csproj.CoreCompileInputs.cache
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.dll
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\refint\Calculadora de Viagem.dll
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.pdb
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.genruntimeconfig.cache
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\ref\Calculadora de Viagem.dll
+C:\Users\pedro.azneto\source\repos\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora_de_Viagem.Properties.Resources.resources
+D:\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.exe
+D:\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.deps.json
+D:\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.runtimeconfig.json
+D:\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.dll
+D:\Calculadora de Viagem\Calculadora de Viagem\bin\Debug\net8.0-windows\Calculadora de Viagem.pdb
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora_de_Viagem.Form1.resources
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora_de_Viagem.Properties.Resources.resources
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.csproj.GenerateResource.cache
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.AssemblyInfoInputs.cache
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.AssemblyInfo.cs
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.csproj.CoreCompileInputs.cache
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.dll
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\refint\Calculadora de Viagem.dll
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.pdb
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\Calculadora de Viagem.genruntimeconfig.cache
+D:\Calculadora de Viagem\Calculadora de Viagem\obj\Debug\net8.0-windows\ref\Calculadora de Viagem.dll

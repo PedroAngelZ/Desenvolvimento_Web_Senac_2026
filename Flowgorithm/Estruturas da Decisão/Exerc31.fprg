@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc31"/>
+        <attribute name="authors" value="pedro"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-07-06 10:05:09 "/>
+        <attribute name="created" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0wNjsiMDU6NTY6MzAgIjsyNTUx"/>
+        <attribute name="edited" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0wNjsiMTA6MDU6MDkgIjsxOzI2NTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="A" type="Real" array="False" size=""/>
+            <declare name="B" type="Real" array="False" size=""/>
+            <declare name="C" type="Real" array="False" size=""/>
+            <declare name="delta" type="Real" array="False" size=""/>
+            <declare name="x1" type="Integer" array="False" size=""/>
+            <declare name="x2" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite o valor de A:&quot;" newline="True"/>
+            <input variable="A"/>
+            <output expression="&quot;Digite o valor de B:&quot;" newline="True"/>
+            <input variable="B"/>
+            <output expression="&quot;Digite o valor de C:&quot;" newline="True"/>
+            <input variable="C"/>
+            <if expression="A = 0">
+                <then>
+                    <output expression="&quot;N&#227;o &#233; equa&#231;&#227;o do 2&#186; grau&quot;" newline="True"/>
+                </then>
+                <else>
+                    <assign variable="delta" expression="B * B - 4 * A * C"/>
+                    <if expression="delta &gt;= 0">
+                        <then>
+                            <assign variable="x1" expression="(-B + sqrt(delta)) / (2 * A)"/>
+                            <assign variable="x2" expression="(-B - sqrt(delta)) / (2 * A)"/>
+                            <output expression="x1 &amp; &quot; e &quot; &amp; x2" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;N&#227;o existem ra&#237;zes reais.&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

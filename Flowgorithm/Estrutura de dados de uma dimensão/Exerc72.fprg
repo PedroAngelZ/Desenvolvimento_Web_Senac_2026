@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc72"/>
+        <attribute name="authors" value="pedro"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-07-28 10:02:55 "/>
+        <attribute name="created" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMDk6NTc6MzMgIjsyNTYz"/>
+        <attribute name="edited" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6MDI6NTUgIjsxOzI2NTc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="vetorOriginal" type="Integer" array="True" size="10"/>
+            <declare name="vetorMetade" type="Real" array="True" size="10"/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="9" direction="inc" step="1">
+                <input variable="vetorOriginal[i]"/>
+                <assign variable="vetorMetade[i]" expression="vetorOriginal[i] / 2"/>
+                <output expression="vetorOriginal[i]&amp; &quot; -&gt; &quot; &amp; vetorMetade[i]" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

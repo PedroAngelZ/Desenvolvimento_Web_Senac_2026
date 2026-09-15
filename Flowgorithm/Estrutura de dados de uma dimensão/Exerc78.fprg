@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc78"/>
+        <attribute name="authors" value="pedro"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-07-28 11:11:01 "/>
+        <attribute name="created" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6NTA6NTAgIjsyNTQ3"/>
+        <attribute name="edited" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTE6MTE6MDEgIjsxOzI2NDk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="vetor1" type="Integer" array="True" size="6"/>
+            <declare name="vetor2" type="Integer" array="True" size="6"/>
+            <declare name="pares" type="Integer" array="True" size="6"/>
+            <declare name="impares" type="Integer" array="True" size="6"/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <declare name="p" type="Integer" array="False" size=""/>
+            <declare name="im" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="5" direction="inc" step="1">
+                <input variable="vetor1[i]"/>
+            </for>
+            <for variable="i" start="0" end="5" direction="inc" step="1">
+                <input variable="vetor2[i]"/>
+            </for>
+            <assign variable="p" expression="0"/>
+            <assign variable="im" expression="0"/>
+            <for variable="i" start="0" end="5" direction="inc" step="1">
+                <if expression="i Mod 2 = 0">
+                    <then>
+                        <assign variable="pares[p]" expression="vetor1[i]"/>
+                        <assign variable="p" expression="p + 1"/>
+                        <assign variable="pares[p]" expression="vetor2[i]"/>
+                        <assign variable="p" expression="p + 1"/>
+                    </then>
+                    <else>
+                        <assign variable="impares[im]" expression="vetor1[i]"/>
+                        <assign variable="im" expression="im + 1"/>
+                        <assign variable="impares[im]" expression="vetor2[i]"/>
+                        <assign variable="im" expression="im + 1"/>
+                    </else>
+                </if>
+            </for>
+            <output expression="&quot;Vetor de &#237;ndices pares:&quot;" newline="True"/>
+            <for variable="i" start="0" end="5" direction="inc" step="1">
+                <output expression="pares[i]" newline="True"/>
+            </for>
+            <output expression="&quot;Vetor de &#237;ndices &#237;mpares:&quot;" newline="True"/>
+            <for variable="i" start="0" end="5" direction="inc" step="1">
+                <output expression="impares[i]" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

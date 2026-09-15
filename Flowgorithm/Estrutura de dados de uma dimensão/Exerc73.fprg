@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc73"/>
+        <attribute name="authors" value="pedro"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-07-28 10:09:53 "/>
+        <attribute name="created" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6MDI6NTkgIjsyNTUz"/>
+        <attribute name="edited" value="cGVkcm87UEVEUk9BTkdFTE87MjAyNi0wNy0yODsiMTA6MDk6NTMgIjsxOzI2NjI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="valor" type="Integer" array="False" size=""/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <declare name="tabuada" type="Integer" array="True" size="10"/>
+            <input variable="valor"/>
+            <for variable="i" start="1" end="10" direction="inc" step="1">
+                <assign variable="tabuada[i - 1]" expression="valor * i"/>
+            </for>
+            <for variable="i" start="1" end="10" direction="inc" step="1">
+                <output expression="valor&amp; &quot; x &quot;&amp; i &amp; &quot; = &quot; &amp; tabuada[i - 1]" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
