@@ -19,5 +19,5 @@ Os exercícios estão organizados nesta pasta de acordo com o conteúdo estudado
 
 ## Demonstração
 
-![Tela inicial](image/flowgorithm1.png)
-![Executado](image/flowgorithm2.png)
+![Tela inicial](../image/flowgorithm1.png)
+![Executado](../image/flowgorithm2.png)
